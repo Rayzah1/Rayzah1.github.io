@@ -1,0 +1,8 @@
+{
+  "name": "portfolio-using-html-in-autocode",
+  "author": "Ivov",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
